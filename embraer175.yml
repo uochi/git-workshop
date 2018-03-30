@@ -9,3 +9,4 @@ cruisingSpeed: 850
 seats:
   - economyClass: 80
   - economyClassConfort: 8
+lifeJacket: Guiler
